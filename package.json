@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Este es un ejercicio de clase sobre git\r este es un comentario en la rama 1\r cambio 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rarojast/Prueba.git"
+  },
+  "author": "rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rarojast/Prueba/issues"
+  },
+  "homepage": "https://github.com/rarojast/Prueba#readme",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "inert": "^5.1.0"
+  }
+}
